@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: https://ilyakovalenko.com
+Sitemap: https://ilyakovalenko.com/sitemap.xml
